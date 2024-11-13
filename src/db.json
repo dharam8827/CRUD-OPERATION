@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "empno": "1001",
+      "name": "raju",
+      "email": "raju123@gmail.com",
+      "contact": 3455868
+    },
+    {
+      "id": "2",
+      "empno": "1002",
+      "name": "ranu",
+      "email": "ranu123@gmail.com",
+      "contact": 558680
+    },
+    {
+      "id": "d7a8",
+      "empno": "1003",
+      "name": "piyush",
+      "email": "ayush123@gmail.com",
+      "contact": "8787998665"
+    },
+    {
+      "id": "177a",
+      "empno": "1004",
+      "name": "Gouri",
+      "email": "gouri@gmail.com",
+      "contact": "84848854"
+    },
+    {
+      "id": "709a",
+      "empno": "1005",
+      "name": "Amit verma",
+      "email": "amit333@gmail.com",
+      "contact": "87889887"
+    },
+    {
+      "id": "643c",
+      "empno": "7",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "contact": "772634532"
+    }
+  ]
+}
